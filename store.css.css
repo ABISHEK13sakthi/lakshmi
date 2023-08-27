@@ -1,0 +1,157 @@
+
+    
+
+
+
+
+#topbar
+{
+background-color:black;
+height: 10px;
+width: 100%;
+}
+body
+{
+    background-color:#ffffff;
+}
+#container
+{
+    
+    width: 70%;
+    margin: 0px auto;
+}
+#header img
+{height: 80px}
+#header
+{
+    height: 80px;
+    background-color:#ffffff;
+}
+#header
+{height:80px;
+}
+#header ul
+{float:right;
+margin-top: 25px;}
+#header ul li
+{display: inline;
+margin-right: 20px;
+}
+#header ul li a
+{ color:black;
+text-decoration:none;
+font-size: 18px;}
+#banner img
+{
+    width: 100%;
+padding-bottom: 20px;
+}
+#content1
+{
+    width: 32%;
+    height: 350px;
+    background-color: chocolate;
+    float: left;
+    margin-right: 2%;
+    
+    
+}
+#content2
+{
+    width: 32%;
+    height: 350px;
+    background-color: yellow;
+    float: left;
+    margin-right: 2%;
+}
+#content3
+{
+    width: 32%;
+    height: 350px;
+    background-color: greenyellow;
+    float: left;
+}
+.heading
+{
+    color: #ffffff;
+    margin-left: 20px;
+}
+.para {
+    color: #ffffff;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.heading1{
+
+}
+.para1 {
+    color: #0c0000;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+.heading2
+{
+    color: #0914e4;
+}
+.para2 {
+    color: #0914e4;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.more{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 8px;
+    margin-left: 20px;
+}
+.more1{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 8px;
+    margin-left: 20px;
+}
+.more2{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 8px;
+    margin-left: 20px;
+}
+#bottom
+{
+    margin-top:15px;
+    width: 60%;
+    
+    height: 300px;
+    float: left;
+}
+#bottom1
+{
+    margin-top:15px;
+    width: 40%;
+    background-color: rgb(0, 26, 255);
+    height: 300px;
+    float: left;
+}
+#bottom h2{
+    color: #0c0000;
+    margin-left: 20px;
+}
+#bottom p{
+    color: #0c0000;
+    margin-left: 20px;
+    margin-right: 18px;
+}
+#bottom1 h2{
+    color: #0c0000;
+    margin-left: 20px;
+} 
+#bottom1 img{
+height: 150px;
+margin-left: 30px;
+}
